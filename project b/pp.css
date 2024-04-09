@@ -1,0 +1,24 @@
+.parent{
+    display:flex;
+}
+
+.storyContainer {
+    margin: 0 250px;
+}
+
+.authorContainer {
+    display: inline-block;
+}
+
+.authorContainer img {
+    margin-right: 10px;
+    border-radius: 100%;
+}
+
+.authorContainer p {
+    margin-right: 10px;
+}
+
+.myHeader {
+    padding: 0 20px;
+}
